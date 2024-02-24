@@ -25,4 +25,4 @@ Feature :
 - REVERSE IP ONLY WINDOWS [ NEW - HOT🔥] -Key don'tkillme
 - SCAN CMS WEBSITE & BRUTE WORDPRESS
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegramhttps://t.me/amelliaahh)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/amelliaahh) [![Linkedin]
