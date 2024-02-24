@@ -1,6 +1,8 @@
 # VVIP TOOLS
 [VVIP TOOLS NEW UPDATE]
 
+CONTACT : [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/amelliaahh)
+
 <img src="https://raw.githubusercontent.com/ClayHaxor/vvip-tools/main/clayhaxor3.png">
 
 Feature : 
@@ -24,5 +26,3 @@ Feature :
 - add http with list [ NEW - HOT🔥]
 - REVERSE IP ONLY WINDOWS [ NEW - HOT🔥] -Key don'tkillme
 - SCAN CMS WEBSITE & BRUTE WORDPRESS
-
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/amelliaahh) [![Linkedin]
