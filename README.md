@@ -1,7 +1,7 @@
 # VVIP TOOLS
 [VVIP TOOLS NEW UPDATE]
 
-CONTACT : [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/amelliaahh)
+CONTACT : [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/biskuat15)
 
 <img src="https://raw.githubusercontent.com/ClayHaxor/vvip-tools/main/clayhaxor3.png">
 
