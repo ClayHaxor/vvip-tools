@@ -24,3 +24,5 @@ Feature :
 - add http with list [ NEW - HOT🔥]
 - REVERSE IP ONLY WINDOWS [ NEW - HOT🔥] -Key don'tkillme
 - SCAN CMS WEBSITE & BRUTE WORDPRESS
+
+[![TELEGRAM](https://t.me/amelliaahh) [![Linkedin]
